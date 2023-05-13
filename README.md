@@ -14,12 +14,11 @@ npm install
 ## ⚙️ Running the app
 
 ```
-npm run dev
+npm start
 ```
 
 ## 🛠️ Built with 
 
-* [Javascript] - Language
 * [React](https://react.dev/) - The web framework
 
 
