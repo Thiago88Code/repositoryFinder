@@ -1,6 +1,9 @@
 # repositoryFinder
 This is an app that consumes data from the github api and filters it from the repository name showing all issues
 
+https://github.com/Thiago88Code/repositoryFinder/assets/74308939/a32953d4-7b01-40ec-b8c7-0eb1e7c243a5
+
+
 ### 📋 Prerequisites
 
 You must have Node and Npm previously installed.
