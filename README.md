@@ -9,12 +9,6 @@ You must have Node and Npm previously installed.
 
 ```
 npm install 
-```
-## ⚙️ Running the app
-
-```
-npm start
-```
 
 # Getting Started with Create React App
 
