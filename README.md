@@ -4,7 +4,6 @@ This is an app that consumes data from the github api and filters it from the re
 ### 📋 Prerequisites
 
 You must have Node and Npm previously installed.
-Recomended Node version: 20.0.0
 
 # Getting Started with Create React App
 
