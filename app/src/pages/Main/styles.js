@@ -1,8 +1,8 @@
 
-import styled, {keyframes, css} from "styled-components";
+import styled, { keyframes, css } from "styled-components";
 
 
- 
+
 
 export const Container = styled.div`
 max-width: 700px;
@@ -32,7 +32,7 @@ display: flex;
    
 input{
     flex-grow:1 ;
-    border:solid 1px ${props => (props.error? "#Ff0000" : "#eee")}; // Interessante!! mudando atibuto interno.
+    border:solid 1px ${props => (props.error ? "#Ff0000" : "#eee")}; // Interessante!! mudando atibuto interno.
     padding: 10px 15px;
     border-radius: 4px;
     font-size: 17px;
@@ -51,12 +51,12 @@ from{
 }
 `;
 
-export const SubmitButton = styled.button.attrs(props =>({
+export const SubmitButton = styled.button.attrs(props => ({
     type: "submit",//ver
     disabled: props.loading
 }))
 
-`   
+    `   
     
     background: #0D2636;
     border: none;

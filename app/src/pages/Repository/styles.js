@@ -58,7 +58,7 @@ background: transparent;
 
 `;
 
-export const FilterIssuesList  = styled.div`
+export const FilterIssuesList = styled.div`
    display: flex;
    
 button{
